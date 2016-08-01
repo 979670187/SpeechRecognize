@@ -2,18 +2,19 @@
   *  HTML API
   *  COPYRIGHT iFlytek
   */
-һ���ļ��ṹ
+一、文件结构
 HTML5 SDK------------------------------------------
          |
-		 |-------------�����ĵ�
-		 |                 |---------�ƴ�Ѷ��HTML5 API˵���ĵ�.pdf
+		 |-------------帮助文档
+		 |                 |---------科大讯飞HTML5 API说明文档.pdf
 		 |
-		 |----------------ʾ��--------------------
-		 |                 |---------�ϳ�ʾ��
+		 |----------------示例--------------------
+		 |                 |---------合成示例
 		 |                 |             |------------tts.html                   
 		 |                 |
-         |     		       |---------��дʾ��
+         |     		       |---------听写示例
 		 |                               |------------iat.html
 
-�������ļ����ط�ʽ		 
-���ļ���������ʽԶ�̼��أ����磺http://webapi.openspeech.cn/js/connection/connection.js
+二、库文件加载方式		 
+库文件以链接形式远程加载，例如：http://webapi.openspeech.cn/js/connection/connection.js
+讯飞开放平台官网地址：http://www.xfyun.cn/?ch=github
